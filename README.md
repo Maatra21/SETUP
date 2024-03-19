@@ -12,7 +12,7 @@
     <p>GABINETE RISE BLACK GLASS.</p>
     <p>TECLADO WAKIZA WARRIOR.</p>
     <p>MOUSE MS319 OEX.</p>
-    <p>MONITOR 1 SAMSUNG ODYSSEY G30, 144Hz.</p>
-    <p>MONITOR 2 LG GAMER 75 Hz.</p>
+    <p>1º MONITOR SAMSUNG ODYSSEY G30, 144Hz.</p>
+    <p>2º MONITOR LG GAMER, 75 Hz.</p>
 </body>
 </html>
