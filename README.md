@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <h1>REGRAS</h1>
+    <h1>SETUP</h1>
     <p>PLACA MÃE ASUS B450M.</p>
     <p>PROCESSADOR RYZEN 5 3300X.</p>
     <p>PLACA DE VIDEO RX 580 XFX.</p>
